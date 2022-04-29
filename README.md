@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hello there! 👋
+I'm Adrian and I'm a bachelors student in CS at [KTH Royal Institute of Technology](https://www.kth.se/en).
 
 <!--
 **adrian-jonsson-sjoedin/adrian-jonsson-sjoedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
