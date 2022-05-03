@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋, I'm Adrian</h1>
-<h3 align="center">A CS bachelor student at [KTH Royal Institute of Technology](https://www.kth.se/en).</h3>
+<h3 align="center"> A CS bachelor student at <a href="https://www.kth.se/en" title="KTH Royal Institute of Technology"> KTH Royal Institute of Technology</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrian-jonsson-sjoedin&label=Profile%20views&color=0e75b6&style=flat" alt="adrian-jonsson-sjoedin" /> </p>
 
